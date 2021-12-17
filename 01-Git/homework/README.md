@@ -166,6 +166,7 @@ La terminal te preguntará tu usuario y contraseña (En el caso de la contraseñ
   remote: Resolving deltas: 100% (1/1), completed with 1 local object.
   To git@github.com:[your username]/Precourse.git
     cccc682..283b9dd  master -> master
+    
 ```
 
 ¡Felicitaciones, acabas de subir tu primer git commit!

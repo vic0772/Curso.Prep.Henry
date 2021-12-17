@@ -1,0 +1,23 @@
+<html>
+    <head>
+       <title>tarea html de victor </title>
+       <link rel="stylesheet" href="style.css">
+    </head>
+     <body>
+     <div class="divClass"> 
+         <h1>victor</h1>
+         <h3>henry</h3>
+         <h4>tarea de html / css</h4>
+     </div>
+     <div class="divClass">
+         <span id="spanId">pizza</span>
+         <a href="kentucki.html"resto></a>
+     </div>
+     <div id="thirdDiv">
+         <ul>
+             <li><img src="https://www.google.com/maps/uv?pb=!1s0x95bcb65e88f17379:0x182a505dccbb5136!3m1!7e115!4shttps://lh5.googleusercontent.com/p/AF1QipP2ooFBq-B7u51G_omaUVsKRIYcIhlrIReC2Vbs%3Dw260-h175-n-k-no!5spizzerias+-+Buscar+con+Google!15zQ2dJZ0FRPT0&imagekey=!1e10!2sAF1QipP2ooFBq-B7u51G_omaUVsKRIYcIhlrIReC2Vbs&hl=es-419" alt=food1> </li>
+             <li><img src="https://www.google.com/search?rlz=1C1CHWL_esAR968AR968&tbm=lcl&sxsrf=AOaemvKYjCFoU3D6cyOUC1q8xGYf0PvGCQ:1639707948007&q=Pizzer%C3%ADa+Celeste+de+URQUIZA&rflfq=1&num=20&stick=H4sIAAAAAAAAAB1RO05jQRCUAxCxIbIQekfo_ydcERHtgkRCZu--AAkMsk3CcTYjQOIOvs2eYmuYZKY_1VXVc3a6Wlp0Z1VIVHIgqNUFa5IqtVcoaSdT0chSCo0jLu5ClbI67wYwUEBcHsRqq_OS5FJRa3EerYQkxkSwW6JVyUvLAVe2Yudy4RDXNnRqNkuZaqQCU8EgYidLFzRxNUkP-BJNZilBzhLZOsghxsdUR8RN5R4Q7wanNZxYcFBnD_HOkfAMInMV8IykQATGQbk6qNoNeATWHhqO3YQKJg-hjKdQlkJaag1LojoEJDN8qxuFfC8vhimsFspsFBOecJMp1g5oZzojiWqUF_5k7MtKWb4Wi3-Lq5-H3Xo_vc67_csWj8P6efN4_NhOm7f97_X278nlr8f393l3_FxP1_PTvD_M0595ur-7vb95-PEfbmWzMOwBAAA&ved=2ahUKEwj3xoWO5On0AhUYqZUCHeSPDrAQxXR6BAgCEAU&rldimm=469978862687166998"alt=food2> </li>
+         </ul>
+     </div>
+    </body>
+</html>
